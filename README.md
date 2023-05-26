@@ -1,4 +1,6 @@
-# Project 1 - Revisited
+# Project 1 - Revisited 
+# Outlet-Store-Sales
+
 # Data Dictionary -
 <img src='Data/data_dictionary.png' width="500" height="500">
 
