@@ -1,6 +1,8 @@
 # Project 1 - Revisited 
 # Outlet-Store-Sales
 
+Source- https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+
 ## Data Dictionary -
 <img src='Data/data_dictionary.png' width="500" height="500">
 
